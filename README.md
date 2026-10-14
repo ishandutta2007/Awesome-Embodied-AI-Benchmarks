@@ -30,35 +30,23 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global Embodied AI and physics simulation software market is estimated at **$3.2B – $3.9B in 2025–2026**, growing at a CAGR of ~16–18% driven by multimodal Foundation/VLA models and synthetic data demand. The sector displays a hybrid structure: it is **highly concentrated at the core foundational simulator and cloud compute infrastructure tier** (dominated by tech giants like Meta, NVIDIA, and Google), while remaining **moderately to highly fragmented across specialized application domains and robotics hardware form-factors**.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[BEHAVIOR Challenge](https://behavior.stanford.edu/)**  
-
-  Annual competition built on BEHAVIOR-1K, the first simulation benchmark grounded in real human needs. Based on extensive surveys asking "what do you want robots to do for you?", presents **1,000 household activities** people actually want help with. Introduces long-horizon mobile manipulation challenges in realistic environments. **2026 BEHAVIOR Challenge is live** .
-
-
-
-- **[Habitat Challenge](https://aihabitat.org/challenge/)**  
-
-  Annual challenge evaluating uploaded agents in unseen environments. Code-upload (not prediction-upload) pattern—agents run in simulation rather than submitting predictions. A living benchmark that tests generalization to new scenes .
-
-
-
-- **[AI2-THOR Cloud](https://ai2thor.allenai.org/)**  
-
-  Near-photorealistic indoor scenes with rich object properties and affordances. Extensions support large-scale procedural scene generation and embodied manipulation. Cloud-hosted version for teams without local GPU infrastructure .
+| Platform | Organization / Backer | Organization Size (Revenue / Valuation) | Description | Pricing | Free Tier Limits |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **[Habitat Challenge](https://aihabitat.org/challenge/)** | Meta Platforms | ~$1.8T - $2.0T Market Cap (~$160B+ Rev) | Annual challenge and evaluation service evaluating uploaded embodied agents in unseen simulated environments via automated code execution. | $0 / Free (Research Platform) | Free forever; unlimited challenge phase submissions subject to EvalAI rate limit of 3–5 submissions/day per team |
+| **[BEHAVIOR Challenge](https://behavior.stanford.edu/)** | Stanford University | $40.8B Endowment ($8.2B+ Op Budget) | Annual benchmark competition grounded in 1,000 human-surveyed daily activities evaluating long-horizon mobile manipulation tasks. | $0 / Free (Academic Benchmark) | Free forever; unrestricted public registration with EvalAI evaluation cap of 2 daily test submissions during challenge periods |
+| **[AI2-THOR Cloud](https://ai2thor.allenai.org/)** | Allen Institute for AI (Ai2) | $150M - $205M Annual Inflows / Grants | Cloud-hosted photorealistic indoor simulation platform and benchmark suite for teams training embodied agents without dedicated local GPU clusters. | $0 / Free (501(c)(3) Open Research) | Free forever; open-source access and free cloud Colab/demo runner instances with standard 12h runtime limits |
 
 
 
