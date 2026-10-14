@@ -141,7 +141,7 @@ Contributions are warmly welcomed! Help keep this embodied AI resource current a
 1. 🍴 Fork the repository.
 2. 🌿 Create your feature branch (`git checkout -b feature/add-new-benchmark`).
 3. 📝 Add your entry to the appropriate section following the existing formatting and table schemas.
-4. ⭐ Add the GitHub Stars_Badge linking to the repository stargazers page.
+4. ⭐ Add the GitHub_Stars_Badge linking to the repository stargazers page.
 5. 🚀 Commit your changes (`git commit -m 'Add Benchmark XYZ'`).
 6. 📬 Push to the branch (`git push origin feature/add-new-benchmark`) and open a Pull Request.
 
